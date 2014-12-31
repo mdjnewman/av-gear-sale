@@ -94,9 +94,11 @@ They're 8Ω boxes, powered using the Alto Mistral 900 at 190w. Solid wooden boxe
 Standard 19" racks, almost identical to [this product by Gator Cases](http://www.gatorcases.com/p/39189-1505/g-tour-4u).
 Front & rear rails, recessed latches, rubber gripped handles.
 
+{% include image.html filename="hard-case-co-4ru-tour-racks.JPG" %}
+
 ### 1x 2U carpet covered 19" sleeve
 
-Open ended 19" sleeve suitable for a sinle 2U amplifier.
+Open ended 19" sleeve suitable for a single 2U amplifier.
 
 ## Lighting
 
@@ -126,6 +128,8 @@ Open ended 19" sleeve suitable for a sinle 2U amplifier.
 
 * Resources
     * [User guide](assets/manuals/DMX Master.pdf)
+
+{% include image.html filename="dmx-master-in-rack.JPG" %}
 
 ### Acme Meteor (2x 300w spinning centrepiece coloured FX light)
 
