@@ -6,8 +6,6 @@ title: Pro audio & lighting items for sale
 Pro audio & lighting items for sale in Brisbane, QLD
 ====================================================
 
-The following is a list of all items below.
-
 - [Behringer BCD3000 (sound card/midi controller)](#behringer-bcd3000-sound-cardmidi-controller)
 - [Behringer DEQ1024 31-band equalizer & feedback destroyer](#behringer-deq1024-31-band-equalizer--feedback-destroyer)
 - [Peavey PVi (XLR) microphone](#peavey-pvi-xlr-microphone)
@@ -27,7 +25,7 @@ The following is a list of all items below.
 - [DMX Master 1 (240 scene, 192 channel lighting controller)](#dmx-master-1-240-scene-192-channel-lighting-controller)
 - [Acme Meteor (2x 300w spinning centrepiece coloured FX light)](#acme-meteor-2x-300w-spinning-centrepiece-coloured-fx-light)
 - [Acme HP-3 fogger](#acme-hp-3-fogger)
-- [Le Maitre smoke fluid (approximately 18L)](#le-maitre-smoke-fluid-approximately-18l)
+- [Le Maitre Global smoke fluid (approximately 18L)](#le-maitre-global-smoke-fluid-approximately-18l)
 - [Stands](#stands)
 - [Cables](#cables)
 
@@ -135,17 +133,23 @@ Open ended 19" sleeve suitable for a sinle 2U amplifier.
 
 ### Acme HP-3 fogger
 
-### Le Maitre smoke fluid (approximately 18L) 
+1000W fogger, high output of 10,000 cubic feet of smoke per minute. Low voltage remote allows timed or manual operation.
+
+{% include image.html filename="hp-3-fogger.jpeg" %}
+
+### Le Maitre Global smoke fluid (approximately 18L) 
+
+Produces a thick, white, practically odourless smoke with a long hang time. Water based fluid is safe for a variety of uses.
+
+* Resources
+    * [Le Maitre Product page](http://www.lemaitreltd.com/p/Global-Smoke-Fluid/cl53b0JVC04)
 
 ## Stands
 
-### 2x T-bar lighting stands
-
-### 2x Speaker stands
-
-### 2x Satellite speaker poles
-
-### Microphone stand
+- 2x T-bar lighting stands
+- 2x Speaker stands
+- 2x Satellite speaker poles
+- Microphone stand
 
 ## Cables
 
