@@ -6,8 +6,8 @@ title: Pro audio & lighting items for sale
 Pro audio & lighting items for sale in Brisbane, QLD
 ====================================================
 
-- [Behringer BCD3000 (sound card/midi controller)](#behringer-bcd3000-sound-cardmidi-controller)
-- [Behringer DEQ1024 31-band equalizer & feedback destroyer](#behringer-deq1024-31-band-equalizer--feedback-destroyer)
+- [Behringer BCD3000](#behringer-bcd3000-sound-card--djmidi-controller)
+- [Behringer DEQ1024](#behringer-deq1024-31-band-equalizer--feedback-destroyer)
 - [Peavey PVi (XLR) microphone](#peavey-pvi-xlr-microphone)
 - [Inter-M M1000](#inter-m-m1000)
 - [Inter-M L3000](#inter-m-l3000)
@@ -21,7 +21,7 @@ Pro audio & lighting items for sale in Brisbane, QLD
 - [Botex SP-106MR 150W Super Strobe](#botex-sp-106mr-150w-super-strobe)
 - [Martin Mania EFX500](#martin-mania-efx500)
 - [Acme UVGun 400W Ultra Violet Wash (needs a new bulb)](#acme-uvgun-400w-ultra-violet-wash-needs-a-new-bulb)
-- [Acme iColour IC-4 RGBY Colour Mixing flood](#acme-icolour-ic-4-rgby-colour-mixing-flood)
+- [Acme iColor IC-4 RGBY Colour Mixing flood](#acme-icolor-ic-4-rgby-colour-mixing-flood)
 - [DMX Master 1 (240 scene, 192 channel lighting controller)](#dmx-master-1-240-scene-192-channel-lighting-controller)
 - [Acme Meteor (2x 300w spinning centrepiece coloured FX light)](#acme-meteor-2x-300w-spinning-centrepiece-coloured-fx-light)
 - [Acme HP-3 fogger](#acme-hp-3-fogger)
@@ -32,13 +32,36 @@ Pro audio & lighting items for sale in Brisbane, QLD
 
 ## General audio equipment
 
-### Behringer BCD3000 (sound card/midi controller)
+### Behringer BCD3000 (sound card & DJ/midi controller)
+
+- Powerful 4-channel USB audio interface with 24-bit converters and ultra-low latency operation under Windows and Mac OS X operating systems
+- Complete DJ setup in a single box: dual player, mixer, effects, 2 phono preamps plus a full-fledged monitor section
+- 2 versatile jog wheels to control typical DJ functions like scratching, pitch bending and cue searching
+- Total performance control through 3-band kill EQ, loop buttons, pitch and level faders per channel plus an ultra-smooth crossfader
+
+<p>
+{% include image.html filename="BCD3000-Top.png" rel="BCD3000" %}
+{% include image.html filename="BCD3000-Right.png" rel="BCD3000" %}
+{% include image.html filename="BCD3000-Rear.png" rel="BCD3000" %}
+</p>
 
 * Resources:
     * [Behringer product page](http://www.behringer.com/EN/Products/BCD3000.aspx)
     * [Product manual](assets/manuals/Behringer BCD-3000.pdf)
 
 ### Behringer DEQ1024 31-band equalizer & feedback destroyer
+
+- Ultra-high resolution 24-bit/96 kHz processor featuring EQ, RTA and dynamic processing for PA and mastering applications
+- Unique “True Curve” Function—fader settings reflect actual frequency response
+- Revolutionary FBQ detection system instantly reveals critical frequencies and can also be used as Audio Analyzer
+- Automatic and ultra-fast Feedback Destroyer plus feedback indication via fader LEDs
+- "Inaudible" Noise Gate/Peak Limiter function plus amazing Stereo Imager for spatial enhancement
+- Additional sweepable High and Low Cut filters for removal of unwanted frequencies like floor rumble and high-frequency noise
+
+<p>
+{% include image.html filename="DEQ1024-Left.png" rel="DEQ1024" %}
+{% include image.html filename="DEQ1024-Rear.png" rel="DEQ1024" %}
+</p>
 
 * Resources:
     * [Behringer product page](http://www.behringer.com/EN/Products/DEQ1024.aspx)
@@ -53,12 +76,30 @@ $70 new.
 
 ### Inter-M M1000
 
-Solid power amp purchased second hand from a sound & lighting hire company.
+Power amp purchased second hand from a sound & lighting hire company. 1000W at 8Ω bridged mono.
+
+- 4Ω-load stable per channel, 8Ω-load stable in bridge mono
+- Thermal protection circuitry
+- Clip limiter circuitry
+- Forced air cooled (front panel intake, rear panel exhaust), variable speed
+- Front panel indicators for output signal level, clip, protect, and power
+- Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
 
 * Resources
     * [Inter-M M Series specification sheet](assets/manuals/Inter-M M Series (spec sheet).pdf)
 
 ### Inter-M L3000
+
+A 2U rack space, 2 channel amplifier capable of 3000W into 4Ω load (bridged mono)
+
+- 2Ω-load stable per channel, 4Ω-load stable in bridge mono
+- Thermal protection circuitry
+- Selectable High Pass Filter on each channel
+- Clip limiter circuitry
+- Forced air cooled (front panel intake, rear panel exhaust), variable speed
+- Front panel indicators for different operating modes
+- Front panel indicators for output signal level, clip, protect, and power
+- Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
 
 * Resources
     * [Inter-M L Series manual](assets/manuals/Inter-M L Series (manual).pdf)
@@ -116,20 +157,30 @@ Open ended 19" sleeve suitable for a single 2U amplifier.
 
 ### Acme UVGun 400W Ultra Violet Wash (needs a new bulb)
 
+{% include image.html filename="uvgun-stock.jpg" %}
+
 * Resources
     * [Data sheet](assets/manuals/UVGun.pdf)
 
-### Acme iColour IC-4 RGBY Colour Mixing flood
+### Acme iColor IC-4 RGBY Colour Mixing flood
+
+Red, green, yellow and blue 500w floods. DMX controllable - chose from 32 static colour combinations (as well as fade or chase),
+with adjustable speed and brightness. Also runs in stand alone sound activated mode.
+
+{% include image.html filename="icolor-4-stock.jpg" %}
 
 * Resources
     * [User guide](assets/manuals/IC-4.pdf)
 
 ### DMX Master 1 (240 scene, 192 channel lighting controller)
 
-* Resources
-    * [User guide](assets/manuals/DMX Master.pdf)
+240 scene, 192 channel lighting controller DMX lighting controller. Rack mountable (3U). Supports
+12 scanners of 16 channels each, 30 banks of 8 programmable scenes, 6 chases and also has a blackout button.
 
 {% include image.html filename="dmx-master-in-rack.JPG" %}
+
+* Resources
+    * [User guide](assets/manuals/DMX Master.pdf)
 
 ### Acme Meteor (2x 300w spinning centrepiece coloured FX light)
 
@@ -144,6 +195,7 @@ Open ended 19" sleeve suitable for a single 2U amplifier.
 ### Le Maitre Global smoke fluid (approximately 18L) 
 
 Produces a thick, white, practically odourless smoke with a long hang time. Water based fluid is safe for a variety of uses.
+In a bulk 25L container with a tap which allows smaller containers or a fogger to be filled easily.
 
 * Resources
     * [Le Maitre Product page](http://www.lemaitreltd.com/p/Global-Smoke-Fluid/cl53b0JVC04)
