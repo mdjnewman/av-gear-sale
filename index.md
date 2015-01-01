@@ -101,10 +101,27 @@ A 2U rack space, 2 channel amplifier capable of 3000W into 4Ω load (bridged mon
 - Front panel indicators for output signal level, clip, protect, and power
 - Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
 
+<p>
+{% include image.html filename="l3000-front.jpg" rel="L3000" %}
+</p>
+
 * Resources
     * [Inter-M L Series manual](assets/manuals/Inter-M L Series (manual).pdf)
 
 ### Alto Mistral 900
+
+A 2U rack space, 2 channel amplifier capable of 500W into 8Ω load (bridged mono).
+
+- Thermal protection circuitry
+- Clip limiter circuitry
+- Forced air cooled (front panel intake, rear panel exhaust), variable speed
+- Front panel indicators for different operating modes
+- Front panel indicators for output signal level, clip, protect, and power
+- Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
+
+<p>
+{% include image.html filename="alto-front.jpg" rel="alto" %}
+</p>
 
 * Resources
     * [Product manual](assets/manuals/Alto Mistral 900.pdf)
