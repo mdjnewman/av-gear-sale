@@ -130,11 +130,31 @@ A 2U rack space, 2 channel amplifier capable of 500W into 8Ω load (bridged mono
 
 ### 2x Behringer Eurolive B1520 Pro (full range 15")
 
+2-way full-range speaker (15" + 1"),  400 W RMS @ 8Ω.
+
+- Ese as PA speaker or floor monitor
+- Ultra-wide 50 Hz – 18 kHz frequency range (-10 dB), impedance 8 Ohms
+- Extremely high sound pressure level (95 dB full space 1 W @ 1 m)
+- Versatile enclosure profile allows different positioning
+
+<p>
+{% include image.html filename="B1520-Left.png" rel="b1520" %}
+{% include image.html filename="B1520-Rear.png" rel="b1520" %}
+</p>
+
 * Resources
     * [Behringer product page](http://www.behringer.com/EN/Products/B1520-PRO.aspx)
     * [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
 
 ### 2x Behringer Eurolive B1800X Pro (18" sub)
+
+- Subwoofer for PA applications, great complement to the B1520s
+- 800W RMS @ 8Ω
+
+<p>
+{% include image.html filename="B1800X-Side.png" rel="b1520" %}
+{% include image.html filename="B1800X-Panel.png" rel="b1520" %}
+</p>
 
 * Resources
     * [Behringer product page](http://www.behringer.com/EN/Products/B1800X-PRO.aspx)
@@ -156,7 +176,7 @@ Front & rear rails, recessed latches, rubber gripped handles.
 
 ### 1x 2U carpet covered 19" sleeve
 
-Open ended 19" sleeve suitable for a single 2U amplifier.
+Open ended 19" sleeve suitable for a 2U amplifier.
 
 ## Lighting
 
