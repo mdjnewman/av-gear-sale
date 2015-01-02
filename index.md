@@ -132,7 +132,7 @@ A 2U rack space, 2 channel amplifier capable of 500W into 8Ω load (bridged mono
 
 2-way full-range speaker (15" + 1"),  400 W RMS @ 8Ω.
 
-- Ese as PA speaker or floor monitor
+- Use as PA speaker or floor monitor
 - Ultra-wide 50 Hz – 18 kHz frequency range (-10 dB), impedance 8 Ohms
 - Extremely high sound pressure level (95 dB full space 1 W @ 1 m)
 - Versatile enclosure profile allows different positioning
@@ -182,12 +182,36 @@ Open ended 19" sleeve suitable for a 2U amplifier.
 
 ### Acme Gigastrobe 1500W
 
+- DMX controllable (speed & intensity)
+- 1500W lamp
+- Thermal cut out switch
+- 4 to 8 strobes can be linked in Master/Slave mode
+- Variable speed flash
+
+{% include image.html filename="gigastrobe-stock.jpg" rel="gigastrobe" %}
+
 * Resources
-    * [Acme product page](http://www.showsystems.com.au/gear/blinders/acme-giga-strobe-1500w-detail)
+    * [Product page](http://www.showsystems.com.au/gear/blinders/acme-giga-strobe-1500w-detail)
 
 ### Botex SP-106MR 150W Super Strobe
 
+Smaller strobe, not DMX controllable. Variable flash speed.
+
 ### Martin Mania EFX500
+
+- DJ lighting fixture with a motorized rotating parabolic mirror dish and a motorized rotating gobo wheel
+- Projects complex moving colored flower effects.
+- Mirror drum with motorized pan (swivel) and tilt (rotation) that further enhances beam dynamics.
+- Stand-alone single fixture and synchronized (master/slave) operation in auto and music triggering modes
+- Adjustable music triggering sensitivity
+- DMX control with two DMX modes: DMX mode 2 gives extended functionality on additional channels
+- Adjustable focus
+- 250W halogen lamp
+
+Note the mirror drum has some damage, shown in photos below. This damage isn't noticable when the unit
+is operating.
+
+{% include image.html filename="efx500-stock.jpg" rel="efx500" %}
 
 * Resources
     * [Product manual](assets/manuals/EFX500.pdf)
