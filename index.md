@@ -20,7 +20,7 @@ Pro audio & lighting items for sale in Brisbane, QLD
 - [Acme Gigastrobe 1500W](#acme-gigastrobe-1500w)
 - [Botex SP-106MR 150W Super Strobe](#botex-sp-106mr-150w-super-strobe)
 - [Martin Mania EFX500](#martin-mania-efx500)
-- [Acme UVGun 400W Ultra Violet Wash (needs a new bulb)](#acme-uvgun-400w-ultra-violet-wash-needs-a-new-bulb)
+- [Acme UVGun 400W Ultra Violet Wash](#acme-uvgun-400w-ultra-violet-wash)
 - [Acme iColor IC-4 RGBY Colour Mixing flood](#acme-icolor-ic-4-rgby-colour-mixing-flood)
 - [DMX Master 1 (240 scene, 192 channel lighting controller)](#dmx-master-1-240-scene-192-channel-lighting-controller)
 - [Acme Meteor (2x 300w spinning centrepiece coloured FX light)](#acme-meteor-2x-300w-spinning-centrepiece-coloured-fx-light)
@@ -160,10 +160,9 @@ A 2U rack space, 2 channel amplifier capable of 500W into 8Ω load (bridged mono
     * [Behringer product page](http://www.behringer.com/EN/Products/B1800X-PRO.aspx)
     * [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
 
-### 2x Weconic full range 15" (WH-15's with replaced horns - KSN1141A horns)
+### 2x Weconic full range 15"
 
-These were purchased off eBay several years ago, the horns have since been replaced.
-They're 8Ω boxes, powered using the Alto Mistral 900 at 190w. Solid wooden boxes with carpeted exterior.
+WH-15's with stock horns replaced by KSN1141A horns. They're 8Ω boxes, powered using the Alto Mistral 900 at 190w. Solid wooden boxes with carpeted exterior.
 
 ## Road cases
 
@@ -216,7 +215,9 @@ is operating.
 * Resources
     * [Product manual](assets/manuals/EFX500.pdf)
 
-### Acme UVGun 400W Ultra Violet Wash (needs a new bulb)
+### Acme UVGun 400W Ultra Violet Wash
+
+Wide angle, powerful UV dispersion. NOTE: this doesn't come with a bulb. Replacement bulbs can be purchased for around $70.
 
 {% include image.html filename="uvgun-stock.jpg" %}
 
