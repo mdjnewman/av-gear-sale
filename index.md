@@ -171,7 +171,9 @@ WH-15's with stock horns replaced by KSN1141A horns. They're 8Ω boxes, powered 
 Standard 19" racks, almost identical to [this product by Gator Cases](http://www.gatorcases.com/p/39189-1505/g-tour-4u).
 Front & rear rails, recessed latches, rubber gripped handles.
 
+<p>
 {% include image.html filename="hard-case-co-4ru-tour-racks.JPG" %}
+</p>
 
 ### 1x 2U carpet covered 19" sleeve
 
@@ -187,7 +189,13 @@ Open ended 19" sleeve suitable for a 2U amplifier.
 - 4 to 8 strobes can be linked in Master/Slave mode
 - Variable speed flash
 
+<p>
 {% include image.html filename="gigastrobe-stock.jpg" rel="gigastrobe" %}
+{% include image.html filename="gigastrobe-box.jpg" rel="gigastrobe" %}
+{% include image.html filename="gigastrobe-manuals.jpg" rel="gigastrobe" %}
+{% include image.html filename="gigastrobe-label.jpg" rel="gigastrobe" %}
+{% include image.html filename="gigastrobe-bottom.jpg" rel="gigastrobe" %}
+</p>
 
 * Resources
     * [Product page](http://www.showsystems.com.au/gear/blinders/acme-giga-strobe-1500w-detail)
@@ -207,10 +215,14 @@ Smaller strobe, not DMX controllable. Variable flash speed.
 - Adjustable focus
 - 250W halogen lamp
 
-Note the mirror drum has some damage, shown in photos below. This damage isn't noticable when the unit
-is operating.
+Note the mirror drum has very slight damage to one of the 19 mirrors on the mirror drum,
+shown in one of the photos below. This damage isn't noticable when the unit is operating.
 
+<p>
 {% include image.html filename="efx500-stock.jpg" rel="efx500" %}
+{% include image.html filename="efx500.jpg" rel="efx500" %}
+{% include image.html filename="efx500-damage.jpg" rel="efx500" %}
+</p>
 
 * Resources
     * [Product manual](assets/manuals/EFX500.pdf)
@@ -219,7 +231,9 @@ is operating.
 
 Wide angle, powerful UV dispersion. NOTE: this doesn't come with a bulb. Replacement bulbs can be purchased for around $70.
 
+<p>
 {% include image.html filename="uvgun-stock.jpg" %}
+</p>
 
 * Resources
     * [Data sheet](assets/manuals/UVGun.pdf)
@@ -229,7 +243,9 @@ Wide angle, powerful UV dispersion. NOTE: this doesn't come with a bulb. Replace
 Red, green, yellow and blue 500w floods. DMX controllable - chose from 32 static colour combinations (as well as fade or chase),
 with adjustable speed and brightness. Also runs in stand alone sound activated mode.
 
+<p>
 {% include image.html filename="icolor-4-stock.jpg" %}
+</p>
 
 * Resources
     * [User guide](assets/manuals/IC-4.pdf)
@@ -239,7 +255,9 @@ with adjustable speed and brightness. Also runs in stand alone sound activated m
 240 scene, 192 channel lighting controller DMX lighting controller. Rack mountable (3U). Supports
 12 scanners of 16 channels each, 30 banks of 8 programmable scenes, 6 chases and also has a blackout button.
 
+<p>
 {% include image.html filename="dmx-master-in-rack.JPG" %}
+</p>
 
 * Resources
     * [User guide](assets/manuals/DMX Master.pdf)
@@ -252,7 +270,9 @@ with adjustable speed and brightness. Also runs in stand alone sound activated m
 
 1000W fogger, high output of 10,000 cubic feet of smoke per minute. Low voltage remote allows timed or manual operation.
 
+<p>
 {% include image.html filename="hp-3-fogger.jpeg" %}
+</p>
 
 ### Le Maitre Global smoke fluid (approximately 18L) 
 
@@ -275,4 +295,8 @@ In a bulk 25L container with a tap which allows smaller containers or a fogger t
 - 2x ~2m Speakon - Speakon cables (bridge between B1520 & B1800X)
 - RCA - 1/4" cables
 - Several XLR - XLR cables of varying length (for use with mic and DMX controller/lights)
+
+<p>
+{% include image.html filename="cables.jpg" %}
+</p>
 
