@@ -205,6 +205,15 @@ Open ended 19" sleeve suitable for a 2U amplifier.
 
 Smaller strobe, not DMX controllable. Variable flash speed.
 
+<p>
+{% include image.html filename="super-strobe.jpg" rel="super-strobe" %}
+{% include image.html filename="super-strobe-front.jpg" rel="super-strobe" %}
+{% include image.html filename="super-strobe-rear.jpg" rel="super-strobe" %}
+</p>
+
+* Resources:
+    * [Product manual](assets/manuals/Super Strobe.pdf)
+
 ### Martin Mania EFX500
 
 - DJ lighting fixture with a motorized rotating parabolic mirror dish and a motorized rotating gobo wheel
@@ -216,13 +225,16 @@ Smaller strobe, not DMX controllable. Variable flash speed.
 - Adjustable focus
 - 250W halogen lamp
 
-Note the mirror drum has very slight damage to one of the 19 mirrors on the mirror drum,
+Note the mirror drum has very damage to one of the 19 mirrors on the mirror drum,
 shown in one of the photos below. This damage isn't noticable when the unit is operating.
 
 <p>
 {% include image.html filename="efx500-stock.jpg" rel="efx500" %}
 {% include image.html filename="efx500.jpg" rel="efx500" %}
 {% include image.html filename="efx500-damage.jpg" rel="efx500" %}
+{% include image.html filename="efx500-controls.jpg" rel="efx500" %}
+{% include image.html filename="efx500-rear-panel.jpg" rel="efx500" %}
+{% include image.html filename="efx500-packaging.jpg" rel="efx500" %}
 </p>
 
 * Resources
@@ -284,6 +296,10 @@ with adjustable speed and brightness. Also runs in stand alone sound activated m
 
 Produces a thick, white, practically odourless smoke with a long hang time. Water based fluid is safe for a variety of uses.
 In a bulk 25L container with a tap which allows smaller containers or a fogger to be filled easily.
+
+<p>
+{% include image.html filename="le-maitre-fluid.jpg" %}
+</p>
 
 * Resources
     * [Le Maitre Product page](http://www.lemaitreltd.com/p/Global-Smoke-Fluid/cl53b0JVC04)
