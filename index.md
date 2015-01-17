@@ -225,7 +225,7 @@ Smaller strobe, not DMX controllable. Variable flash speed.
 - Adjustable focus
 - 250W halogen lamp
 
-Note the mirror drum has very damage to one of the 19 mirrors on the mirror drum,
+Note the mirror drum has slight damage to one of the 19 mirrors on the mirror drum,
 shown in one of the photos below. This damage isn't noticable when the unit is operating.
 
 <p>
