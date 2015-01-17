@@ -43,6 +43,7 @@ Pro audio & lighting items for sale in Brisbane, QLD
 {% include image.html filename="BCD3000-Top.png" rel="BCD3000" %}
 {% include image.html filename="BCD3000-Right.png" rel="BCD3000" %}
 {% include image.html filename="BCD3000-Rear.png" rel="BCD3000" %}
+{% include image.html filename="BCD3000-packaging.jpg" rel="BCD3000" %}
 </p>
 
 * Resources:
@@ -244,7 +245,12 @@ Red, green, yellow and blue 500w floods. DMX controllable - chose from 32 static
 with adjustable speed and brightness. Also runs in stand alone sound activated mode.
 
 <p>
-{% include image.html filename="icolor-4-stock.jpg" %}
+{% include image.html filename="icolor-4-stock.jpg" rel="ic4" %}
+{% include image.html filename="ic4-closed.jpg" rel="ic4" %}
+{% include image.html filename="ic4-dmx-and-controls.jpg" rel="ic4" %}
+{% include image.html filename="ic4-front-open.jpg" rel="ic4" %}
+{% include image.html filename="ic4-label.jpg" rel="ic4" %}
+{% include image.html filename="ic4-rear.jpg" rel="ic4" %}
 </p>
 
 * Resources
