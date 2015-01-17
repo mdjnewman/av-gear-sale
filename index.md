@@ -287,9 +287,16 @@ with adjustable speed and brightness. Also runs in stand alone sound activated m
 ### Acme HP-3 fogger
 
 1000W fogger, high output of 10,000 cubic feet of smoke per minute. Low voltage remote allows timed or manual operation.
+Slight dent on front of fogger, shown in two of the images below.
 
 <p>
 {% include image.html filename="hp-3-fogger.jpeg" %}
+{% include image.html filename="hp-3-fogger-all.jpg" %}
+{% include image.html filename="hp-3-fogger-rear.jpg" %}
+{% include image.html filename="hp-3-fogger-label.jpg" %}
+{% include image.html filename="hp-3-fogger-damage-1.jpg" %}
+{% include image.html filename="hp-3-fogger-damage-2.jpg" %}
+{% include image.html filename="hp-3-fogger-manual.jpg" %}
 </p>
 
 ### Le Maitre Global smoke fluid (approximately 18L) 
