@@ -290,13 +290,13 @@ with adjustable speed and brightness. Also runs in stand alone sound activated m
 Slight dent on front of fogger, shown in two of the images below.
 
 <p>
-{% include image.html filename="hp-3-fogger.jpeg" %}
-{% include image.html filename="hp-3-fogger-all.jpg" %}
-{% include image.html filename="hp-3-fogger-rear.jpg" %}
-{% include image.html filename="hp-3-fogger-label.jpg" %}
-{% include image.html filename="hp-3-fogger-damage-1.jpg" %}
-{% include image.html filename="hp-3-fogger-damage-2.jpg" %}
-{% include image.html filename="hp-3-fogger-manual.jpg" %}
+{% include image.html filename="hp-3-fogger.jpeg" rel="hp3" %}
+{% include image.html filename="hp-3-fogger-all.jpg" rel="hp3" %}
+{% include image.html filename="hp-3-fogger-rear.jpg" rel="hp3" %}
+{% include image.html filename="hp-3-fogger-label.jpg" rel="hp3" %}
+{% include image.html filename="hp-3-fogger-damage-1.jpg" rel="hp3" %}
+{% include image.html filename="hp-3-fogger-damage-2.jpg" rel="hp3" %}
+{% include image.html filename="hp-3-fogger-manual.jpg" rel="hp3" %}
 </p>
 
 ### Le Maitre Global smoke fluid (approximately 18L) 
