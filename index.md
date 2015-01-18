@@ -39,16 +39,22 @@ Pro audio & lighting items for sale in Brisbane, QLD
 - 2 versatile jog wheels to control typical DJ functions like scratching, pitch bending and cue searching
 - Total performance control through 3-band kill EQ, loop buttons, pitch and level faders per channel plus an ultra-smooth crossfader
 
+Condition:
+
+- As new, no damage (was always transported in a case)
+- In original packaging with all cables and manuals
+
+Resources:
+
+* [Behringer product page](http://www.behringer.com/EN/Products/BCD3000.aspx)
+* [Product manual](assets/manuals/Behringer BCD-3000.pdf)
+
 <p>
 {% include image.html filename="BCD3000-Top.png" rel="BCD3000" %}
 {% include image.html filename="BCD3000-Right.png" rel="BCD3000" %}
 {% include image.html filename="BCD3000-Rear.png" rel="BCD3000" %}
 {% include image.html filename="BCD3000-packaging.jpg" rel="BCD3000" %}
 </p>
-
-* Resources:
-    * [Behringer product page](http://www.behringer.com/EN/Products/BCD3000.aspx)
-    * [Product manual](assets/manuals/Behringer BCD-3000.pdf)
 
 ### Behringer DEQ1024 31-band equalizer & feedback destroyer
 
@@ -59,19 +65,29 @@ Pro audio & lighting items for sale in Brisbane, QLD
 - "Inaudible" Noise Gate/Peak Limiter function plus amazing Stereo Imager for spatial enhancement
 - Additional sweepable High and Low Cut filters for removal of unwanted frequencies like floor rumble and high-frequency noise
 
+Condition:
+
+- As new, no damage (has always been mounted in the Hard Case Co tour racks shown below)
+
+Resources:
+
+* [Behringer product page](http://www.behringer.com/EN/Products/DEQ1024.aspx)
+* [Product manual](assets/manuals/Behringer DEQ1024 (manual).pdf)
+
 <p>
 {% include image.html filename="DEQ1024-Left.png" rel="DEQ1024" %}
 {% include image.html filename="DEQ1024-Rear.png" rel="DEQ1024" %}
 </p>
 
-* Resources:
-    * [Behringer product page](http://www.behringer.com/EN/Products/DEQ1024.aspx)
-    * [Product manual](assets/manuals/Behringer DEQ1024 (manual).pdf)
-
 ### Peavey PVi (XLR) microphone
 
 Basic XLR microphone, always transported in a case and handled carefully. Cost was approximiately
 $70 new.
+
+<p>
+{% include image.html filename="mic-in-pack.jpg" rel="microphone" %}
+{% include image.html filename="mic-datasheet.jpg" rel="microphone" %}
+</p>
 
 ## Amplifiers
 
@@ -86,8 +102,9 @@ Power amp purchased second hand from a sound & lighting hire company. 1000W at 8
 - Front panel indicators for output signal level, clip, protect, and power
 - Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
 
-* Resources
-    * [Inter-M M Series specification sheet](assets/manuals/Inter-M M Series (spec sheet).pdf)
+Resources:
+
+* [Inter-M M Series specification sheet](assets/manuals/Inter-M M Series (spec sheet).pdf)
 
 ### Inter-M L3000
 
@@ -102,12 +119,13 @@ A 2U rack space, 2 channel amplifier capable of 3000W into 4Ω load (bridged mon
 - Front panel indicators for output signal level, clip, protect, and power
 - Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
 
+Resources:
+
+* [Inter-M L Series manual](assets/manuals/Inter-M L Series (manual).pdf)
+
 <p>
 {% include image.html filename="l3000-front.jpg" rel="L3000" %}
 </p>
-
-* Resources
-    * [Inter-M L Series manual](assets/manuals/Inter-M L Series (manual).pdf)
 
 ### Alto Mistral 900
 
@@ -120,12 +138,13 @@ A 2U rack space, 2 channel amplifier capable of 500W into 8Ω load (bridged mono
 - Front panel indicators for output signal level, clip, protect, and power
 - Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
 
+Resources:
+
+* [Product manual](assets/manuals/Alto Mistral 900.pdf)
+
 <p>
 {% include image.html filename="alto-front.jpg" rel="alto" %}
 </p>
-
-* Resources
-    * [Product manual](assets/manuals/Alto Mistral 900.pdf)
 
 ## Speakers
 
@@ -138,28 +157,30 @@ A 2U rack space, 2 channel amplifier capable of 500W into 8Ω load (bridged mono
 - Extremely high sound pressure level (95 dB full space 1 W @ 1 m)
 - Versatile enclosure profile allows different positioning
 
+Resources:
+
+* [Behringer product page](http://www.behringer.com/EN/Products/B1520-PRO.aspx)
+* [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
+
 <p>
 {% include image.html filename="B1520-Left.png" rel="b1520" %}
 {% include image.html filename="B1520-Rear.png" rel="b1520" %}
 </p>
-
-* Resources
-    * [Behringer product page](http://www.behringer.com/EN/Products/B1520-PRO.aspx)
-    * [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
 
 ### 2x Behringer Eurolive B1800X Pro (18" sub)
 
 - Subwoofer for PA applications, great complement to the B1520s
 - 800W RMS @ 8Ω
 
+Resources:
+
+* [Behringer product page](http://www.behringer.com/EN/Products/B1800X-PRO.aspx)
+* [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
+
 <p>
 {% include image.html filename="B1800X-Side.png" rel="b1520" %}
 {% include image.html filename="B1800X-Panel.png" rel="b1520" %}
 </p>
-
-* Resources
-    * [Behringer product page](http://www.behringer.com/EN/Products/B1800X-PRO.aspx)
-    * [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
 
 ### 2x Weconic full range 15"
 
@@ -190,6 +211,10 @@ Open ended 19" sleeve suitable for a 2U amplifier.
 - 4 to 8 strobes can be linked in Master/Slave mode
 - Variable speed flash
 
+Resources:
+
+* [Product page](http://www.showsystems.com.au/gear/blinders/acme-giga-strobe-1500w-detail)
+
 <p>
 {% include image.html filename="gigastrobe-stock.jpg" rel="gigastrobe" %}
 {% include image.html filename="gigastrobe-box.jpg" rel="gigastrobe" %}
@@ -198,21 +223,19 @@ Open ended 19" sleeve suitable for a 2U amplifier.
 {% include image.html filename="gigastrobe-bottom.jpg" rel="gigastrobe" %}
 </p>
 
-* Resources
-    * [Product page](http://www.showsystems.com.au/gear/blinders/acme-giga-strobe-1500w-detail)
-
 ### Botex SP-106MR 150W Super Strobe
 
 Smaller strobe, not DMX controllable. Variable flash speed.
+
+Resources:
+
+* [Product manual](assets/manuals/Super Strobe.pdf)
 
 <p>
 {% include image.html filename="super-strobe.jpg" rel="super-strobe" %}
 {% include image.html filename="super-strobe-front.jpg" rel="super-strobe" %}
 {% include image.html filename="super-strobe-rear.jpg" rel="super-strobe" %}
 </p>
-
-* Resources:
-    * [Product manual](assets/manuals/Super Strobe.pdf)
 
 ### Martin Mania EFX500
 
@@ -228,6 +251,10 @@ Smaller strobe, not DMX controllable. Variable flash speed.
 Note the mirror drum has slight damage to one of the 19 mirrors on the mirror drum,
 shown in one of the photos below. This damage isn't noticable when the unit is operating.
 
+Resources:
+
+* [Product manual](assets/manuals/EFX500.pdf)
+
 <p>
 {% include image.html filename="efx500-stock.jpg" rel="efx500" %}
 {% include image.html filename="efx500.jpg" rel="efx500" %}
@@ -237,24 +264,26 @@ shown in one of the photos below. This damage isn't noticable when the unit is o
 {% include image.html filename="efx500-packaging.jpg" rel="efx500" %}
 </p>
 
-* Resources
-    * [Product manual](assets/manuals/EFX500.pdf)
-
 ### Acme UVGun 400W Ultra Violet Wash
 
 Wide angle, powerful UV dispersion. NOTE: this doesn't come with a bulb. Replacement bulbs can be purchased for around $70.
+
+Resources:
+
+* [Data sheet](assets/manuals/UVGun.pdf)
 
 <p>
 {% include image.html filename="uvgun-stock.jpg" %}
 </p>
 
-* Resources
-    * [Data sheet](assets/manuals/UVGun.pdf)
-
 ### Acme iColor IC-4 RGBY Colour Mixing flood
 
 Red, green, yellow and blue 500w floods. DMX controllable - chose from 32 static colour combinations (as well as fade or chase),
 with adjustable speed and brightness. Also runs in stand alone sound activated mode.
+
+Resources:
+
+* [User guide](assets/manuals/IC-4.pdf)
 
 <p>
 {% include image.html filename="icolor-4-stock.jpg" rel="ic4" %}
@@ -265,20 +294,18 @@ with adjustable speed and brightness. Also runs in stand alone sound activated m
 {% include image.html filename="ic4-rear.jpg" rel="ic4" %}
 </p>
 
-* Resources
-    * [User guide](assets/manuals/IC-4.pdf)
-
 ### DMX Master 1 (240 scene, 192 channel lighting controller)
 
 240 scene, 192 channel lighting controller DMX lighting controller. Rack mountable (3U). Supports
 12 scanners of 16 channels each, 30 banks of 8 programmable scenes, 6 chases and also has a blackout button.
 
+Resources:
+
+* [User guide](assets/manuals/DMX Master.pdf)
+
 <p>
 {% include image.html filename="dmx-master-in-rack.JPG" %}
 </p>
-
-* Resources
-    * [User guide](assets/manuals/DMX Master.pdf)
 
 ### Acme Meteor (2x 300w spinning centrepiece coloured FX light)
 
@@ -304,12 +331,13 @@ Slight dent on front of fogger, shown in two of the images below.
 Produces a thick, white, practically odourless smoke with a long hang time. Water based fluid is safe for a variety of uses.
 In a bulk 25L container with a tap which allows smaller containers or a fogger to be filled easily.
 
+Resources:
+
+* [Le Maitre Product page](http://www.lemaitreltd.com/p/Global-Smoke-Fluid/cl53b0JVC04)
+
 <p>
 {% include image.html filename="le-maitre-fluid.jpg" %}
 </p>
-
-* Resources
-    * [Le Maitre Product page](http://www.lemaitreltd.com/p/Global-Smoke-Fluid/cl53b0JVC04)
 
 ## Stands
 
@@ -320,10 +348,12 @@ In a bulk 25L container with a tap which allows smaller containers or a fogger t
 
 ## Cables
 
-- 4x Speakon - Speakon cables, about 8m in length
-- 2x ~2m Speakon - Speakon cables (bridge between B1520 & B1800X)
-- RCA - 1/4" cables
-- Several XLR - XLR cables of varying length (for use with mic and DMX controller/lights)
+- 4x Speakon to Speakon cables, about 8m in length
+- 2x ~2m Speakon to Speakon cables (bridge between B1520 & B1800X)
+- Several XLR to XLR cables of varying length (for use with mic and DMX controller/lights)
+- 2x 1/4" mono to 2x 1/4" mono cable, ~2m 
+- RCA to 1/4" cables (not shown below)
+- 2x stereo RCA to stereo RCA cables, ~5m (not shown below)
 
 <p>
 {% include image.html filename="cables.jpg" %}
