@@ -14,7 +14,7 @@ Pro audio & lighting items for sale in Brisbane, QLD
 - [Alto Mistral 900](#alto-mistral-900)
 - [2x Behringer Eurolive B1520 Pro (full range 15”)](#x-behringer-eurolive-b1520-pro-full-range-15)
 - [2x Behringer Eurolive B1800X Pro (18” sub)](#x-behringer-eurolive-b1800x-pro-18-sub)
-- [2x Weconic full range 15” (WH-15’s with replaced horns - KSN1141A horns)](#x-weconic-full-range-15-wh-15s-with-replaced-horns---ksn1141a-horns)
+- [2x Weconic full range 15” (WH-15’s with replaced horns - KSN1141A horns)](#x-weconic-full-range-15)
 - [2x 4U Hard Case Co 19” tour wood racks, full size (~17” deep)](#x-4u-hard-case-co-19-tour-wood-racks-full-size-17-deep)
 - [1x 2U carpet covered 19” sleeve](#x-2u-carpet-covered-19-sleeve)
 - [Acme Gigastrobe 1500W](#acme-gigastrobe-1500w)
@@ -102,9 +102,21 @@ Power amp purchased second hand from a sound & lighting hire company. 1000W at 8
 - Front panel indicators for output signal level, clip, protect, and power
 - Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
 
+Condition:
+
+- Some scratches on the top of the unit, as shown below
+- Still functions perfectly
+
 Resources:
 
 * [Inter-M M Series specification sheet](assets/manuals/Inter-M M Series (spec sheet).pdf)
+
+<p>
+{% include image.html filename="m1000-front.jpg" rel="m1000" %}
+{% include image.html filename="m1000-rear.jpg" rel="m1000" %}
+{% include image.html filename="m1000-label.jpg" rel="m1000" %}
+{% include image.html filename="m1000-top.jpg" rel="m1000" %}
+</p>
 
 ### Inter-M L3000
 
@@ -119,12 +131,17 @@ A 2U rack space, 2 channel amplifier capable of 3000W into 4Ω load (bridged mon
 - Front panel indicators for output signal level, clip, protect, and power
 - Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
 
+Condition:
+
+- As new, no damage (has always been mounted in the Hard Case Co tour racks shown below or in a sleeve as pictured)
+
 Resources:
 
 * [Inter-M L Series manual](assets/manuals/Inter-M L Series (manual).pdf)
 
 <p>
 {% include image.html filename="l3000-front.jpg" rel="L3000" %}
+
 </p>
 
 ### Alto Mistral 900
