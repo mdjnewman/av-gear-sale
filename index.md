@@ -81,7 +81,7 @@ Resources:
 
 ### Peavey PVi (XLR) microphone
 
-Basic XLR microphone, always transported in a case and handled carefully. Cost was approximiately
+Basic XLR microphone, always transported in a case and handled carefully. Cost was approximately
 $70 new.
 
 <p>
@@ -133,7 +133,7 @@ A 2U rack space, 2 channel amplifier capable of 3000W into 4Ω load (bridged mon
 
 Condition:
 
-- As new, no damage (has always been mounted in the Hard Case Co tour racks shown below or in a sleeve as pictured)
+- As new, no damage (has always been mounted in the Hard Case Co tour racks shown below or in a sleeve as pictured below)
 
 Resources:
 
@@ -141,7 +141,8 @@ Resources:
 
 <p>
 {% include image.html filename="l3000-front.jpg" rel="L3000" %}
-
+{% include image.html filename="l3000-racked-front.jpg" rel="L3000" %}
+{% include image.html filename="l3000-racked-rear.jpg" rel="L3000" %}
 </p>
 
 ### Alto Mistral 900
@@ -154,6 +155,10 @@ A 2U rack space, 2 channel amplifier capable of 500W into 8Ω load (bridged mono
 - Front panel indicators for different operating modes
 - Front panel indicators for output signal level, clip, protect, and power
 - Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
+
+Condition:
+
+- As new, no damage
 
 Resources:
 
@@ -174,6 +179,10 @@ Resources:
 - Extremely high sound pressure level (95 dB full space 1 W @ 1 m)
 - Versatile enclosure profile allows different positioning
 
+Condition:
+
+- Minor scuffs on the exterior of the boxes, still function perfectly
+
 Resources:
 
 * [Behringer product page](http://www.behringer.com/EN/Products/B1520-PRO.aspx)
@@ -188,6 +197,10 @@ Resources:
 
 - Subwoofer for PA applications, great complement to the B1520s
 - 800W RMS @ 8Ω
+
+Condition:
+
+- Minor scuffs on the exterior of the boxes, still function perfectly
 
 Resources:
 
@@ -266,7 +279,7 @@ Resources:
 - 250W halogen lamp
 
 Note the mirror drum has slight damage to one of the 19 mirrors on the mirror drum,
-shown in one of the photos below. This damage isn't noticable when the unit is operating.
+shown in one of the photos below. This damage isn't noticeable when the unit is operating.
 
 Resources:
 
@@ -367,7 +380,7 @@ Resources:
 
 - 4x Speakon to Speakon cables, about 8m in length
 - 2x ~2m Speakon to Speakon cables (bridge between B1520 & B1800X)
-- Several XLR to XLR cables of varying length (for use with mic and DMX controller/lights)
+- Several XLR to XLR cables of varying length (for use with microphones and DMX controllers/lights)
 - 2x 1/4" mono to 2x 1/4" mono cable, ~2m 
 - RCA to 1/4" cables (not shown below)
 - 2x stereo RCA to stereo RCA cables, ~5m (not shown below)
