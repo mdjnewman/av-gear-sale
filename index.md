@@ -189,8 +189,13 @@ Resources:
 * [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
 
 <p>
-{% include image.html filename="B1520-Left.png" rel="b1520" %}
-{% include image.html filename="B1520-Rear.png" rel="b1520" %}
+{% include image.html filename="B1520-front-top.jpg" rel="b1520" %}
+{% include image.html filename="B1520-front.jpg" rel="b1520" %}
+{% include image.html filename="B1520-front-top-right.jpg" rel="b1520" %}
+{% include image.html filename="B1520-foldback.jpg" rel="b1520" %}
+{% include image.html filename="B1520-panel.jpg" rel="b1520" %}
+{% include image.html filename="Eurolive-pair-front-left.jpg" rel="b1520" %}
+{% include image.html filename="Eurolive-pair-front-right.jpg" rel="b1520" %}
 </p>
 
 ### 2x Behringer Eurolive B1800X Pro (18" sub)
@@ -208,8 +213,11 @@ Resources:
 * [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
 
 <p>
-{% include image.html filename="B1800X-Side.png" rel="b1520" %}
-{% include image.html filename="B1800X-Panel.png" rel="b1520" %}
+{% include image.html filename="B1800X-front-top.jpg" rel="b1520" %}
+{% include image.html filename="B1800X-front.jpg" rel="b1520" %}
+{% include image.html filename="B1800X-panel.jpg" rel="b1520" %}
+{% include image.html filename="Eurolive-pair-front-left.jpg" rel="b1520" %}
+{% include image.html filename="Eurolive-pair-front-right.jpg" rel="b1520" %}
 </p>
 
 ### 2x Weconic full range 15"
@@ -373,8 +381,7 @@ Resources:
 
 - 2x T-bar lighting stands
 - 2x Speaker stands
-- 2x Satellite speaker poles
-- Microphone stand
+- 2x Satellite speaker poles (for mounting the B1520s atop the B1800X subs)
 
 ## Cables
 
