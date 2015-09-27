@@ -13,7 +13,6 @@ Pro audio & lighting items for sale in Brisbane, QLD
 - [Inter-M L3000](#inter-m-l3000)
 - [Alto Mistral 900](#alto-mistral-900)
 - [2x Behringer Eurolive B1520 Pro (full range 15”)](#x-behringer-eurolive-b1520-pro-full-range-15)
-- [2x Behringer Eurolive B1800X Pro (18” sub)](#x-behringer-eurolive-b1800x-pro-18-sub)
 - [2x Weconic full range 15” (WH-15’s with replaced horns - KSN1141A horns)](#x-weconic-full-range-15)
 - [2x 4U Hard Case Co 19” tour wood racks, full size (~17” deep)](#x-4u-hard-case-co-19-tour-wood-racks-full-size-17-deep)
 - [1x 2U carpet covered 19” sleeve](#x-2u-carpet-covered-19-sleeve)
@@ -188,34 +187,14 @@ Resources:
 * [Behringer product page](http://www.behringer.com/EN/Products/B1520-PRO.aspx)
 * [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
 
+Note some images below show the B1520 paired with a B1800X sub.
+
 <p>
 {% include image.html filename="B1520-front-top.jpg" rel="b1520" %}
 {% include image.html filename="B1520-front.jpg" rel="b1520" %}
 {% include image.html filename="B1520-front-top-right.jpg" rel="b1520" %}
 {% include image.html filename="B1520-foldback.jpg" rel="b1520" %}
 {% include image.html filename="B1520-panel.jpg" rel="b1520" %}
-{% include image.html filename="Eurolive-pair-front-left.jpg" rel="b1520" %}
-{% include image.html filename="Eurolive-pair-front-right.jpg" rel="b1520" %}
-</p>
-
-### 2x Behringer Eurolive B1800X Pro (18" sub)
-
-- Subwoofer for PA applications, great complement to the B1520s
-- 800W RMS @ 8Ω
-
-Condition:
-
-- Minor scuffs on the exterior of the boxes, still function perfectly
-
-Resources:
-
-* [Behringer product page](http://www.behringer.com/EN/Products/B1800X-PRO.aspx)
-* [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
-
-<p>
-{% include image.html filename="B1800X-front-top.jpg" rel="b1520" %}
-{% include image.html filename="B1800X-front.jpg" rel="b1520" %}
-{% include image.html filename="B1800X-panel.jpg" rel="b1520" %}
 {% include image.html filename="Eurolive-pair-front-left.jpg" rel="b1520" %}
 {% include image.html filename="Eurolive-pair-front-right.jpg" rel="b1520" %}
 </p>
