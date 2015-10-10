@@ -299,7 +299,7 @@ Resources:
 
 ### Acme HP-3 fogger
 
-1000W fogger, high output of 10,000 cubic feet of smoke per minute. Low voltage remote allows timed or manual operation.
+1000W fogger, high output of 5,000 cubic feet of smoke per minute. Low voltage remote allows timed or manual operation.
 Slight dent on front of fogger, shown in two of the images below.
 
 <p>
