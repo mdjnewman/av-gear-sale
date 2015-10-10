@@ -12,7 +12,6 @@ Pro audio & lighting items for sale in Brisbane, QLD
 - [Inter-M M1000](#inter-m-m1000)
 - [Inter-M L3000](#inter-m-l3000)
 - [Alto Mistral 900](#alto-mistral-900)
-- [2x Behringer Eurolive B1520 Pro (full range 15”)](#x-behringer-eurolive-b1520-pro-full-range-15)
 - [2x Weconic full range 15” (WH-15’s with replaced horns - KSN1141A horns)](#x-weconic-full-range-15)
 - [2x 4U Hard Case Co 19” tour wood racks, full size (~17” deep)](#x-4u-hard-case-co-19-tour-wood-racks-full-size-17-deep)
 - [1x 2U carpet covered 19” sleeve](#x-2u-carpet-covered-19-sleeve)
@@ -168,36 +167,6 @@ Resources:
 </p>
 
 ## Speakers
-
-### 2x Behringer Eurolive B1520 Pro (full range 15")
-
-2-way full-range speaker (15" + 1"),  400 W RMS @ 8Ω.
-
-- Use as PA speaker or floor monitor
-- Ultra-wide 50 Hz – 18 kHz frequency range (-10 dB), impedance 8 Ohms
-- Extremely high sound pressure level (95 dB full space 1 W @ 1 m)
-- Versatile enclosure profile allows different positioning
-
-Condition:
-
-- Minor scuffs on the exterior of the boxes, still function perfectly
-
-Resources:
-
-* [Behringer product page](http://www.behringer.com/EN/Products/B1520-PRO.aspx)
-* [Behringer Eurolive Pro Series manual](assets/manuals/Behringer Eurolive Pro Series (manual).pdf)
-
-Note some images below show the B1520 paired with a B1800X sub.
-
-<p>
-{% include image.html filename="B1520-front-top.jpg" rel="b1520" %}
-{% include image.html filename="B1520-front.jpg" rel="b1520" %}
-{% include image.html filename="B1520-front-top-right.jpg" rel="b1520" %}
-{% include image.html filename="B1520-foldback.jpg" rel="b1520" %}
-{% include image.html filename="B1520-panel.jpg" rel="b1520" %}
-{% include image.html filename="Eurolive-pair-front-left.jpg" rel="b1520" %}
-{% include image.html filename="Eurolive-pair-front-right.jpg" rel="b1520" %}
-</p>
 
 ### 2x Weconic full range 15"
 
