@@ -6,30 +6,11 @@ title: Pro audio & lighting items for sale
 Pro audio & lighting items for sale in Brisbane, QLD
 ====================================================
 
-- [Behringer BCD3000](#behringer-bcd3000-sound-card--djmidi-controller)
-- [Behringer DEQ1024](#behringer-deq1024-31-band-equalizer--feedback-destroyer)
-- [Peavey PVi (XLR) microphone](#peavey-pvi-xlr-microphone)
-- [Inter-M L3000](#inter-m-l3000)
-- [Alto Mistral 900](#alto-mistral-900)
-- [2x Weconic full range 15” (WH-15’s with replaced horns - KSN1141A horns)](#x-weconic-full-range-15)
-- [2x 4U Hard Case Co 19” tour wood racks, full size (~17” deep)](#x-4u-hard-case-co-19-tour-wood-racks-full-size-17-deep)
-- [1x 2U carpet covered 19” sleeve](#x-2u-carpet-covered-19-sleeve)
-- [Acme Gigastrobe 1500W](#acme-gigastrobe-1500w)
-- [Botex SP-106MR 150W Super Strobe](#botex-sp-106mr-150w-super-strobe)
-- [Martin Mania EFX500](#martin-mania-efx500)
-- [Acme UVGun 400W Ultra Violet Wash](#acme-uvgun-400w-ultra-violet-wash)
-- [Acme iColor IC-4 RGBY Colour Mixing flood](#acme-icolor-ic-4-rgby-colour-mixing-flood)
-- [DMX Master 1 (240 scene, 192 channel lighting controller)](#dmx-master-1-240-scene-192-channel-lighting-controller)
-- [Acme Meteor (2x 300w spinning centrepiece coloured FX light)](#acme-meteor-2x-300w-spinning-centrepiece-coloured-fx-light)
-- [Acme HP-3 fogger](#acme-hp-3-fogger)
-- [Le Maitre Global smoke fluid (approximately 18L)](#le-maitre-global-smoke-fluid-approximately-18l)
-- [Stands](#stands)
-- [Cables](#cables)
+Most items are on Gumtree, click the heading to see the Gumtree ad.
 
+<hr/>
 
-## General audio equipment
-
-### Behringer BCD3000 (sound card & DJ/midi controller)
+## [Behringer BCD3000 (sound card & DJ/midi controller)](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/behringer-bcd3000-sound-card-dj-midi-controller-/1092418684)
 
 - Powerful 4-channel USB audio interface with 24-bit converters and ultra-low latency operation under Windows and Mac OS X operating systems
 - Complete DJ setup in a single box: dual player, mixer, effects, 2 phono preamps plus a full-fledged monitor section
@@ -53,7 +34,7 @@ Resources:
 {% include image.html filename="BCD3000-packaging.jpg" rel="BCD3000" %}
 </p>
 
-### Behringer DEQ1024 31-band equalizer & feedback destroyer
+## [Behringer DEQ1024 31-band equalizer & feedback destroyer](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/behringer-deq1024-31-band-equalizer-feedback-destroyer/1091829800)
 
 - Ultra-high resolution 24-bit/96 kHz processor featuring EQ, RTA and dynamic processing for PA and mastering applications
 - Unique “True Curve” Function—fader settings reflect actual frequency response
@@ -76,7 +57,7 @@ Resources:
 {% include image.html filename="DEQ1024-Rear.png" rel="DEQ1024" %}
 </p>
 
-### Peavey PVi (XLR) microphone
+## Peavey PVi (XLR) microphone
 
 Basic XLR microphone, always transported in a case and handled carefully. Cost was approximately
 $70 new.
@@ -86,9 +67,7 @@ $70 new.
 {% include image.html filename="mic-datasheet.jpg" rel="microphone" %}
 </p>
 
-## Amplifiers
-
-### Inter-M L3000
+## [Inter-M L3000](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/inter-m-l3000-3000w-power-amp-/1091726851)
 
 A 2U rack space, 2 channel amplifier capable of 3000W into 4Ω load (bridged mono)
 
@@ -115,7 +94,7 @@ Resources:
 {% include image.html filename="l3000-racked-rear.jpg" rel="L3000" %}
 </p>
 
-### Alto Mistral 900
+## [Alto Mistral 900](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/alto-pro-audio-mistral-900-power-amp-/1092413940)
 
 A 2U rack space, 2 channel amplifier capable of 500W into 8Ω load (bridged mono).
 
@@ -138,15 +117,13 @@ Resources:
 {% include image.html filename="alto-front.jpg" rel="alto" %}
 </p>
 
-## Speakers
-
-### 2x Weconic full range 15"
+## 2x Weconic full range 15"
 
 WH-15's with stock horns replaced by KSN1141A horns. They're 8Ω boxes, powered using the Alto Mistral 900 at 190w. Solid wooden boxes with carpeted exterior.
 
-## Road cases
+(more details to come)
 
-### 2x 4U Hard Case Co 19" tour wood racks, full size (~17" deep)
+## [2x 4U Hard Case Co 19" tour wood racks, full size (~17" deep)](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/4u-hard-case-co-19-tour-wood-racks-full-size-17-deep-/1092414492)
 
 Standard 19" racks, almost identical to [this product by Gator Cases](http://www.gatorcases.com/p/39189-1505/g-tour-4u).
 Front & rear rails, recessed latches, rubber gripped handles.
@@ -155,13 +132,11 @@ Front & rear rails, recessed latches, rubber gripped handles.
 {% include image.html filename="hard-case-co-4ru-tour-racks.JPG" %}
 </p>
 
-### 1x 2U carpet covered 19" sleeve
+## 1x 2U carpet covered 19" sleeve
 
 Open ended 19" sleeve suitable for a 2U amplifier.
 
-## Lighting
-
-### Acme Gigastrobe 1500W
+## [Acme Gigastrobe 1500W](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/acme-gigastrobe-1500w-dmx-controllable-strobe-/1091824265)
 
 - DMX controllable (speed & intensity)
 - 1500W lamp
@@ -181,7 +156,7 @@ Resources:
 {% include image.html filename="gigastrobe-bottom.jpg" rel="gigastrobe" %}
 </p>
 
-### Botex SP-106MR 150W Super Strobe
+## [Botex SP-106MR 150W Super Strobe](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/150-w-strobe/1092415409)
 
 Smaller strobe, not DMX controllable. Variable flash speed.
 
@@ -195,34 +170,7 @@ Resources:
 {% include image.html filename="super-strobe-rear.jpg" rel="super-strobe" %}
 </p>
 
-### Martin Mania EFX500
-
-- DJ lighting fixture with a motorized rotating parabolic mirror dish and a motorized rotating gobo wheel
-- Projects complex moving colored flower effects.
-- Mirror drum with motorized pan (swivel) and tilt (rotation) that further enhances beam dynamics.
-- Stand-alone single fixture and synchronized (master/slave) operation in auto and music triggering modes
-- Adjustable music triggering sensitivity
-- DMX control with two DMX modes: DMX mode 2 gives extended functionality on additional channels
-- Adjustable focus
-- 250W halogen lamp
-
-Note the mirror drum has slight damage to one of the 19 mirrors on the mirror drum,
-shown in one of the photos below. This damage isn't noticeable when the unit is operating.
-
-Resources:
-
-* [Product manual](assets/manuals/EFX500.pdf)
-
-<p>
-{% include image.html filename="efx500-stock.jpg" rel="efx500" %}
-{% include image.html filename="efx500.jpg" rel="efx500" %}
-{% include image.html filename="efx500-damage.jpg" rel="efx500" %}
-{% include image.html filename="efx500-controls.jpg" rel="efx500" %}
-{% include image.html filename="efx500-rear-panel.jpg" rel="efx500" %}
-{% include image.html filename="efx500-packaging.jpg" rel="efx500" %}
-</p>
-
-### Acme UVGun 400W Ultra Violet Wash
+## Acme UVGun 400W Ultra Violet Wash
 
 Wide angle, powerful UV dispersion. NOTE: this doesn't come with a bulb. Replacement bulbs can be purchased for around $70.
 
@@ -234,7 +182,7 @@ Resources:
 {% include image.html filename="uvgun-stock.jpg" %}
 </p>
 
-### Acme iColor IC-4 RGBY Colour Mixing flood
+## [Acme iColor IC-4 RGBY Colour Mixing flood](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/acme-icolour-ic-4-rgby-colour-mixing-flood/1092414823)
 
 Red, green, yellow and blue 500w floods. DMX controllable - chose from 32 static colour combinations (as well as fade or chase),
 with adjustable speed and brightness. Also runs in stand alone sound activated mode.
@@ -252,7 +200,7 @@ Resources:
 {% include image.html filename="ic4-rear.jpg" rel="ic4" %}
 </p>
 
-### DMX Master 1 (240 scene, 192 channel lighting controller)
+## [DMX Master 1 (240 scene, 192 channel lighting controller)](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/dmx-master-1-240-scene-192-channel-lighting-controller-/1092415154)
 
 240 scene, 192 channel lighting controller DMX lighting controller. Rack mountable (3U). Supports
 12 scanners of 16 channels each, 30 banks of 8 programmable scenes, 6 chases and also has a blackout button.
@@ -265,14 +213,17 @@ Resources:
 {% include image.html filename="dmx-master-in-rack.JPG" %}
 </p>
 
-### Acme Meteor (2x 300w spinning centrepiece coloured FX light)
+## Acme Meteor (2x 300w spinning centrepiece coloured FX light)
 
-## Smoke machines/fluid
+(Details to come)
 
-### Acme HP-3 fogger
+## [Acme HP-3 fogger & 18L Le Maitre Global smoke fluid](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/acme-hp-3-fogger-18l-le-maitre-global-smoke-fluid/1091720574)
 
 1000W fogger, high output of 5,000 cubic feet of smoke per minute. Low voltage remote allows timed or manual operation.
 Slight dent on front of fogger, shown in two of the images below.
+
+Fluid produces a thick, white, practically odourless smoke with a long hang time. Water based fluid is safe for a variety of uses.
+In a bulk 25L container with a tap which allows smaller containers or a fogger to be filled easily.
 
 <p>
 {% include image.html filename="hp-3-fogger.jpeg" rel="hp3" %}
@@ -282,20 +233,12 @@ Slight dent on front of fogger, shown in two of the images below.
 {% include image.html filename="hp-3-fogger-damage-1.jpg" rel="hp3" %}
 {% include image.html filename="hp-3-fogger-damage-2.jpg" rel="hp3" %}
 {% include image.html filename="hp-3-fogger-manual.jpg" rel="hp3" %}
+{% include image.html filename="le-maitre-fluid.jpg" %}
 </p>
-
-### Le Maitre Global smoke fluid (approximately 18L) 
-
-Produces a thick, white, practically odourless smoke with a long hang time. Water based fluid is safe for a variety of uses.
-In a bulk 25L container with a tap which allows smaller containers or a fogger to be filled easily.
 
 Resources:
 
 * [Le Maitre Product page](http://www.lemaitreltd.com/p/Global-Smoke-Fluid/cl53b0JVC04)
-
-<p>
-{% include image.html filename="le-maitre-fluid.jpg" %}
-</p>
 
 ## Stands
 
