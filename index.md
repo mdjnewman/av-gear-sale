@@ -9,7 +9,6 @@ Pro audio & lighting items for sale in Brisbane, QLD
 - [Behringer BCD3000](#behringer-bcd3000-sound-card--djmidi-controller)
 - [Behringer DEQ1024](#behringer-deq1024-31-band-equalizer--feedback-destroyer)
 - [Peavey PVi (XLR) microphone](#peavey-pvi-xlr-microphone)
-- [Inter-M M1000](#inter-m-m1000)
 - [Inter-M L3000](#inter-m-l3000)
 - [Alto Mistral 900](#alto-mistral-900)
 - [2x Weconic full range 15” (WH-15’s with replaced horns - KSN1141A horns)](#x-weconic-full-range-15)
@@ -88,33 +87,6 @@ $70 new.
 </p>
 
 ## Amplifiers
-
-### Inter-M M1000
-
-Power amp purchased second hand from a sound & lighting hire company. 1000W at 8Ω bridged mono.
-
-- 4Ω-load stable per channel, 8Ω-load stable in bridge mono
-- Thermal protection circuitry
-- Clip limiter circuitry
-- Forced air cooled (front panel intake, rear panel exhaust), variable speed
-- Front panel indicators for output signal level, clip, protect, and power
-- Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
-
-Condition:
-
-- Some scratches on the top of the unit, as shown below
-- Still functions perfectly
-
-Resources:
-
-* [Inter-M M Series specification sheet](assets/manuals/Inter-M M Series (spec sheet).pdf)
-
-<p>
-{% include image.html filename="m1000-front.jpg" rel="m1000" %}
-{% include image.html filename="m1000-rear.jpg" rel="m1000" %}
-{% include image.html filename="m1000-label.jpg" rel="m1000" %}
-{% include image.html filename="m1000-top.jpg" rel="m1000" %}
-</p>
 
 ### Inter-M L3000
 
