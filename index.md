@@ -170,7 +170,9 @@ Resources:
 {% include image.html filename="super-strobe-rear.jpg" rel="super-strobe" %}
 </p>
 
-## [Acme UVGun 400W Ultra Violet Wash](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/acme-uvgun-400w-ultra-violet-wash/1092423724)
+## ~~Acme UVGun 400W Ultra Violet Wash~~
+
+**SOLD**
 
 Wide angle, powerful UV dispersion. Easy lamp replacement access from the
 front, via the removable lens protection mesh. Perfect for large venues.
