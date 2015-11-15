@@ -117,11 +117,22 @@ Resources:
 {% include image.html filename="alto-front.jpg" rel="alto" %}
 </p>
 
-## 2x Weconic full range 15"
+## [2x Weconic full range 15"](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/2x-weconic-wh15s/1095106162)
 
-WH-15's with stock horns replaced by KSN1141A horns. They're 8Ω boxes, powered using the Alto Mistral 900 at 190w. Solid wooden boxes with carpeted exterior.
+2x 15" WH-15's with stock horns replaced by KSN1141A horns. They're 8Ω boxes, I
+ran them with an Inter-M M1000 at 330w. Solid wooden boxes with carpeted
+exterior.
 
-(more details to come)
+Carpet is starting to come away from the box in some places (especially on the
+bottom), minor marks on front grill.
+
+<p>
+{% include image.html filename="weconic-front-both.jpg" rel="weconic" %}
+{% include image.html filename="weconic-front-right.jpg" rel="weconic" %}
+{% include image.html filename="weconic-front-single.jpg" rel="weconic" %}
+{% include image.html filename="weconic-rear-right.jpg" rel="weconic" %}
+{% include image.html filename="weconic-label.jpg" rel="weconic" %}
+</p>
 
 ## [2x 4U Hard Case Co 19" tour wood racks, full size (~17" deep)](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/4u-hard-case-co-19-tour-wood-racks-full-size-17-deep-/1092414492)
 
@@ -186,11 +197,11 @@ Resources:
 * [Data sheet](assets/manuals/UVGun.pdf)
 
 <p>
-{% include image.html filename="uvgun-front-side.jpg" %}
-{% include image.html filename="uvgun-front.jpg" %}
-{% include image.html filename="uvgun-rear.jpg" %}
-{% include image.html filename="uvgun-label.jpg" %}
-{% include image.html filename="uvgun-stock.jpg" %}
+{% include image.html filename="uvgun-front-side.jpg" rel="uvgun" %}
+{% include image.html filename="uvgun-front.jpg" rel="uvgun" %}
+{% include image.html filename="uvgun-rear.jpg" rel="uvgun" %}
+{% include image.html filename="uvgun-label.jpg" rel="uvgun" %}
+{% include image.html filename="uvgun-stock.jpg" rel="uvgun" %}
 </p>
 
 ## [Acme iColor IC-4 RGBY Colour Mixing flood](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/acme-icolour-ic-4-rgby-colour-mixing-flood/1092414823)
