@@ -10,7 +10,7 @@ Most items are on Gumtree, click the heading to see the Gumtree ad.
 
 <hr/>
 
-## [Behringer BCD3000 (sound card & DJ/midi controller)](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/behringer-bcd3000-sound-card-dj-midi-controller-/1092418684)
+## ~~Behringer BCD3000 (sound card & DJ/midi controller~~
 
 - Powerful 4-channel USB audio interface with 24-bit converters and ultra-low latency operation under Windows and Mac OS X operating systems
 - Complete DJ setup in a single box: dual player, mixer, effects, 2 phono preamps plus a full-fledged monitor section
