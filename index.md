@@ -117,7 +117,7 @@ Resources:
 {% include image.html filename="alto-front.jpg" rel="alto" %}
 </p>
 
-## [2x Weconic full range 15"](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/2x-weconic-wh15s/1095106162)
+## ~~2x Weconic full range 15"~~
 
 2x 15" WH-15's with stock horns replaced by KSN1141A horns. They're 8Ω boxes, I
 ran them with an Inter-M M1000 at 330w. Solid wooden boxes with carpeted
