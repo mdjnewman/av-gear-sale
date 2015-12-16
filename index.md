@@ -94,7 +94,7 @@ Resources:
 {% include image.html filename="l3000-racked-rear.jpg" rel="L3000" %}
 </p>
 
-## [Alto Mistral 900](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/alto-pro-audio-mistral-900-power-amp-/1092413940)
+## ~~Alto Mistral 900~~
 
 A 2U rack space, 2 channel amplifier capable of 500W into 8Ω load (bridged mono).
 
