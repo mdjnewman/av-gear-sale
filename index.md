@@ -134,7 +134,7 @@ bottom), minor marks on front grill.
 {% include image.html filename="weconic-label.jpg" rel="weconic" %}
 </p>
 
-## [2x 4U Hard Case Co 19" tour wood racks, full size (~17" deep)](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/4u-hard-case-co-19-tour-wood-racks-full-size-17-deep-/1092414492)
+## ~~2x 4U Hard Case Co 19" tour wood racks, full size (~17" deep)~~
 
 Standard 19" racks, almost identical to [this product by Gator Cases](http://www.gatorcases.com/p/39189-1505/g-tour-4u).
 Front & rear rails, recessed latches, rubber gripped handles.
