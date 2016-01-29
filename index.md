@@ -80,20 +80,6 @@ Resources:
 {% include image.html filename="gigastrobe-bottom.jpg" rel="gigastrobe" %}
 </p>
 
-## [Botex SP-106MR 150W Super Strobe](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/150-w-strobe/1092415409)
-
-Smaller strobe, not DMX controllable. Variable flash speed.
-
-Resources:
-
-* [Product manual](assets/manuals/Super Strobe.pdf)
-
-<p>
-{% include image.html filename="super-strobe.jpg" rel="super-strobe" %}
-{% include image.html filename="super-strobe-front.jpg" rel="super-strobe" %}
-{% include image.html filename="super-strobe-rear.jpg" rel="super-strobe" %}
-</p>
-
 ## [Acme iColor IC-4 RGBY Colour Mixing flood](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/acme-icolour-ic-4-rgby-colour-mixing-flood/1092414823)
 
 Red, green, yellow and blue 500w floods. DMX controllable - chose from 32 static colour combinations (as well as fade or chase),
