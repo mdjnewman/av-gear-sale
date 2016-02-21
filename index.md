@@ -111,29 +111,6 @@ Resources:
 {% include image.html filename="dmx-master-in-rack.JPG" %}
 </p>
 
-## [Acme HP-3 fogger & 18L Le Maitre Global smoke fluid](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/acme-hp-3-fogger-18l-le-maitre-global-smoke-fluid/1091720574)
-
-1000W fogger, high output of 5,000 cubic feet of smoke per minute. Low voltage remote allows timed or manual operation.
-Slight dent on front of fogger, shown in two of the images below.
-
-Fluid produces a thick, white, practically odourless smoke with a long hang time. Water based fluid is safe for a variety of uses.
-In a bulk 25L container with a tap which allows smaller containers or a fogger to be filled easily.
-
-<p>
-{% include image.html filename="hp-3-fogger.jpeg" rel="hp3" %}
-{% include image.html filename="hp-3-fogger-all.jpg" rel="hp3" %}
-{% include image.html filename="hp-3-fogger-rear.jpg" rel="hp3" %}
-{% include image.html filename="hp-3-fogger-label.jpg" rel="hp3" %}
-{% include image.html filename="hp-3-fogger-damage-1.jpg" rel="hp3" %}
-{% include image.html filename="hp-3-fogger-damage-2.jpg" rel="hp3" %}
-{% include image.html filename="hp-3-fogger-manual.jpg" rel="hp3" %}
-{% include image.html filename="le-maitre-fluid.jpg" %}
-</p>
-
-Resources:
-
-* [Le Maitre Product page](http://www.lemaitreltd.com/p/Global-Smoke-Fluid/cl53b0JVC04)
-
 ## Peavey PVi (XLR) microphone
 
 Basic XLR microphone, always transported in a case and handled carefully. Cost was approximately
