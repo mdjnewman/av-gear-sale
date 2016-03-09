@@ -10,56 +10,6 @@ Most items are on Gumtree, click the heading to see the Gumtree ad.
 
 <hr/>
 
-## [Behringer DEQ1024 31-band equalizer & feedback destroyer](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/behringer-deq1024-31-band-equalizer-feedback-destroyer/1091829800)
-
-- Ultra-high resolution 24-bit/96 kHz processor featuring EQ, RTA and dynamic processing for PA and mastering applications
-- Unique “True Curve” Function—fader settings reflect actual frequency response
-- Revolutionary FBQ detection system instantly reveals critical frequencies and can also be used as Audio Analyzer
-- Automatic and ultra-fast Feedback Destroyer plus feedback indication via fader LEDs
-- "Inaudible" Noise Gate/Peak Limiter function plus amazing Stereo Imager for spatial enhancement
-- Additional sweepable High and Low Cut filters for removal of unwanted frequencies like floor rumble and high-frequency noise
-
-Condition:
-
-- As new, no damage (has always been mounted in the Hard Case Co tour racks shown below)
-
-Resources:
-
-* [Behringer product page](http://www.behringer.com/EN/Products/DEQ1024.aspx)
-* [Product manual](assets/manuals/Behringer DEQ1024 (manual).pdf)
-
-<p>
-{% include image.html filename="DEQ1024-Left.png" rel="DEQ1024" %}
-{% include image.html filename="DEQ1024-Rear.png" rel="DEQ1024" %}
-</p>
-
-## [Inter-M L3000](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/inter-m-l3000-3000w-power-amp-/1091726851)
-
-A 2U rack space, 2 channel amplifier capable of 3000W into 4Ω load (bridged mono)
-
-- 2Ω-load stable per channel, 4Ω-load stable in bridge mono
-- Thermal protection circuitry
-- Selectable High Pass Filter on each channel
-- Clip limiter circuitry
-- Forced air cooled (front panel intake, rear panel exhaust), variable speed
-- Front panel indicators for different operating modes
-- Front panel indicators for output signal level, clip, protect, and power
-- Rack Ears for permanent installation in a standard 19” (rack mount width) enclosure
-
-Condition:
-
-- As new, no damage (has always been mounted in the Hard Case Co tour racks shown below or in a sleeve as pictured below)
-
-Resources:
-
-* [Inter-M L Series manual](assets/manuals/Inter-M L Series (manual).pdf)
-
-<p>
-{% include image.html filename="l3000-front.jpg" rel="L3000" %}
-{% include image.html filename="l3000-racked-front.jpg" rel="L3000" %}
-{% include image.html filename="l3000-racked-rear.jpg" rel="L3000" %}
-</p>
-
 ## [Acme Gigastrobe 1500W](http://www.gumtree.com.au/s-ad/toowong/dj-gear-lighting/acme-gigastrobe-1500w-dmx-controllable-strobe-/1091824265)
 
 - DMX controllable (speed & intensity)
